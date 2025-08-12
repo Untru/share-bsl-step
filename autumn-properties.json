@@ -3,6 +3,7 @@
         "TOKEN": "7967956539:"
     },
     "UNPACK": "py",
+    "SHARESERVICE": ["ПубликаторGist", "ПубликаторЕщеКакойНибудь"],
     "logos": {
         "logger": {
             "oscript.lib.share_bsl": {
