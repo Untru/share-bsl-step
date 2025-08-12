@@ -2,6 +2,7 @@
     "TELEGRAMM": {
         "TOKEN": "7967956539:"
     },
+    "UNPACK": "py",
     "logos": {
         "logger": {
             "oscript.lib.share_bsl": {
